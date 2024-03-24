@@ -1,0 +1,3 @@
+﻿  test_Mine.cpp
+C:\Users\admin\Documents\Tencent Files\1474944872\FileRecv\程序设计\test_Mine\test_Mine.cpp(154): warning C4715: “judge”: 不是所有的控件路径都返回值
+  test_Mine.vcxproj -> C:\Users\admin\Documents\Tencent Files\1474944872\FileRecv\程序设计\test_Mine\Debug\test_Mine.exe
